@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crudeoper/static/css/main.34de6062.chunk.css",
+    "main.js": "/crudeoper/static/js/main.8b579386.chunk.js",
+    "main.js.map": "/crudeoper/static/js/main.8b579386.chunk.js.map",
+    "runtime~main.js": "/crudeoper/static/js/runtime~main.3333f8a5.js",
+    "runtime~main.js.map": "/crudeoper/static/js/runtime~main.3333f8a5.js.map",
+    "static/js/2.e4647524.chunk.js": "/crudeoper/static/js/2.e4647524.chunk.js",
+    "static/js/2.e4647524.chunk.js.map": "/crudeoper/static/js/2.e4647524.chunk.js.map",
+    "index.html": "/crudeoper/index.html",
+    "precache-manifest.5a9abd12d7455919c5a0891fc9e8a343.js": "/crudeoper/precache-manifest.5a9abd12d7455919c5a0891fc9e8a343.js",
+    "service-worker.js": "/crudeoper/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/crudeoper/static/css/main.34de6062.chunk.css.map"
+  }
+}
