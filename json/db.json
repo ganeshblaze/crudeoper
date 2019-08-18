@@ -1,0 +1,28 @@
+{
+  "course": [
+    {
+      "id": "122",
+      "name": "Angular 5",
+      "fee": "48880",
+      "duration": "2.5 months"
+    },
+    {
+      "id": "124",
+      "name": "Angular 4",
+      "fee": "9999",
+      "duration": "3 months"
+    },
+    {
+      "id": "5",
+      "name": "Node js",
+      "fee": "25000",
+      "duration": "2 months"
+    },
+    {
+      "id": "4",
+      "name": "Mongo DB",
+      "fee": "15000",
+      "duration": "4 months"
+    }
+  ]
+}
